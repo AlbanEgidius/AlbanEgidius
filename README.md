@@ -1,4 +1,18 @@
 ### Hi there 👋
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <h1>ALL ABOUT ME</h1><br>
+        <p>NAME: ALBAN EGIDIUS</p>
+        <p>PLACE OF BIRTH: ARUSHA</p>
+        <p>OCCUPATION: STUDENT</p>
+        <p>AGE: 20 YEARS</p>
+        <p>A LEVEL: PANDAHILL</p>
+        <a href="albanhobbies.htm">albanhobbies</a>
+    </body>
+</html> 
 
 <!--
 **AlbanEgidius/AlbanEgidius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
