@@ -79,13 +79,13 @@ footer {
 
 <section>
   <nav>
-      ENJOY
+      ENJOY !!!
       <p>&#128512;</p>
   </nav>
   
   <article>
     <h3>I am only going to use this site to explain what is in store for you </h3>
-    <p>I have been writing poems ever since I discovered my talent and passion in writing and I always wanted to share my wisdom with the world but it always seemed hard to start publishing books and my goal always looked out of reach simply because of the cost but technology seems to have made this easier to reach the</p>
+    <p>I have been writing poems ever since I discovered my talent and passion in writing and I always wanted to share my wisdom with the world but it always seemed hard to start publishing books and my goal always looked out of reach simply because of the cost but technology seems to have made this easier to reach the world</p>
   </article>
 </section>
 
